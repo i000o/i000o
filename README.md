@@ -5,7 +5,7 @@ As an abstract filmmaker, I'm gifted in recognising patterns within otherwise co
 Right now, I'm building front-end web components with an ambition to master the full stack.
 
 Languages: **HTML, CSS, Sass.**  
-Learning: **JavaScript, React.**
+Learning: **JavaScript.**
 
 You can also find me on:
 **Codecademy** Web Dev Club Captain - I host live peer-coding sessions every month on this e-learning platform to support skill-building, knowledge exchange, collaboration & community.  
