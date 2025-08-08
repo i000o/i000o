@@ -1,4 +1,4 @@
-**Iman Osman - Programmer & Experimental Filmmaker**
+**Iman Osman - Full-Stack Engineer & Experimental Filmmaker**
 
 In the world of abstract film, I'm gifted in recognising patterns within otherwise complex and obscure situations. As a programmer, I use these instincts to develop a dynamic problem-solve style that builds real-world solutions which pragmatically address user needs.  
 
