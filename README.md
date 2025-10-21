@@ -8,6 +8,6 @@ You can also find me on:
 **Codecademy** Web Dev Club Captain - I host live peer-coding sessions every month on this e-learning platform to support skill-building, knowledge exchange, collaboration & community.  
 
 Besides programming, I:  
-Practice Wing Chun kung fu 
+Practice Wing Chun kung fu  
 Am interested in Jungian psychology  
 Enjoy surrealist, symbolic, abstract art
